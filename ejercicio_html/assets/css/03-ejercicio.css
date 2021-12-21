@@ -1,0 +1,52 @@
+body{
+    background-color:  #247353;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 0.1em 0.1em 0.1em #333
+}
+
+
+.blanca{
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 600px;
+    padding: 10px;
+    margin: 0 auto;
+
+}
+
+.cafe{
+    background-color: #ac5a39;
+    border: 10px solid #802400;
+    width: 600px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 20px;
+    color:white;
+    padding: 5px;
+}
+
+.cafe_claro{
+    background-color: #ac7a39;
+    border: 10px solid #804800;
+    width: 600px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 20px;
+    color:white;
+    padding: 5px;
+    margin-left: 45rem;
+}
+
+.azul{
+    background-color: #004680;
+    border: 3px dashed #3978ac;
+    width: 600px;
+    color:white;
+    padding: 10px;
+    margin: 0 auto;
+}

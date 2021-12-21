@@ -1,0 +1,12 @@
+.formulario{
+    border: 5px solid rgb(0, 72, 255);
+}
+
+.nombre{
+    border: 2px solid hotpink;
+    border-radius: 3px;
+}
+
+#password{
+    border: 2px dashed rgb(160, 75, 209);
+}

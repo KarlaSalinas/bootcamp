@@ -1,0 +1,38 @@
+p, label{
+    color:white;
+}
+
+label{
+    display: inline-block;
+    width: 98px;
+    margin-right: 3px;
+}
+
+p, .button{
+    margin-left: 5rem;
+}
+
+.parrafo2{
+    margin-right: 8rem;
+}
+
+.c1{
+    text-align: center;
+}
+
+div{
+    padding: 5px;
+}
+
+.contenido{
+    border: 2px solid red;
+    border-radius: 2px;
+}
+
+.cuadro{
+    background-color: #008000;
+    width: 500px;
+    height: 400px;
+    border: 10px solid #B0C4DE;
+    border-radius: 5px;
+}
