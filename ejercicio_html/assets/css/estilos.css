@@ -1,0 +1,42 @@
+body{
+    background-color:  #c3dbeb ;
+    font-family: 'Arial';
+    font-size: 14px;
+}
+
+.inicio{
+    text-align: right;
+    font-family: 'Arial';
+}
+
+.primero{
+    color: red;
+    font-family: 'Comic Sans MS';
+}
+
+h1{
+    font-family:Verdana;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.text1{
+    color: #c07f42 ;
+    font-weight: 600;
+}
+
+.text2{
+    color:lightsalmon;
+}
+
+.text3{
+    background-color: white;
+    color:green;
+    font-style: italic;
+}
+
+.final{
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+}

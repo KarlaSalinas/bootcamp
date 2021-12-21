@@ -1,0 +1,29 @@
+body{
+    background-color: #2b8353 ;
+}
+
+h1{
+    font-family: Arial;
+}
+.texto{
+    font-style: italic;
+    color: white;
+}
+
+.texto2{
+    color:wheat;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+.texto3{
+    color:orange;
+    font-family: 'Consolas';
+    font-size: 17px;
+}
+
+.texto5{
+    color:crimson;
+    font-family:'Comic Sans MS';
+    font-size: 17px;
+}
