@@ -1,0 +1,38 @@
+body{
+    background-color: #7FFFD4;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    width: 45%;
+} 
+
+.rojo{
+    color: red;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+.naranja{
+    background-color: coral;
+}
+
+.num{
+    color:yellow;
+}
+
+.negro{
+    background-color: black;
+}
+
+.amarillo{
+    background-color: yellow;
+}
