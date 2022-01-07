@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+}
+
+.contenedor{
+    display: flex;
+    height: 600px;
+    border: 3px solid purple;
+    /*justify-content: center;*/
+    /*justify-content: space-around; deja un espacio a la izq y a la derecha
+    justify-content: space-between; deja un espacio entre los elementos*/
+    justify-content: space-evenly; /*deja un espacio entre los elementos de forma equitativa*/
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.caja{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.verde{
+    background-color: green;
+    /* align-self: center; */
+}
+
+.azul{
+    background-color: blue;
+    /* align-self: flex-end; */
+}
+
+.amarillo{
+    background-color: yellow;
+}
