@@ -1,0 +1,15 @@
+{
+  "name": "trabajandoconnpm",
+  "version": "1.0.0",
+  "description": "Trabajando un proyecto con NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karla Salinas",
+  "license": "ISC",
+  "dependencies": {
+    "colors.js": "^1.2.4",
+    "express": "^4.17.2"
+  }
+}
