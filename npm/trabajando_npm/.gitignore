@@ -1,1 +1,4 @@
 node_modules
+adios.txt
+src/hola.txt
+*.txt
